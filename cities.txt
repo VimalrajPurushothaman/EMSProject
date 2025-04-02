@@ -1,6 +1,3 @@
 Hi this is my first git push , tata bye bye
-<<<<<<< HEAD
 hi im haneen
-=======
-hi im vimal
->>>>>>> firstBranch
+
